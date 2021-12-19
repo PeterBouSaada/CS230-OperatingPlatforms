@@ -17,7 +17,7 @@ I did a good job of identifying the strengths and weaknesses of every operating 
 Identifying the relationships between the Singleton model and the different classes like Game, Team, and Player made it a lot easier to write the code that connects everything together.
 
 ## What would I revise?
-I think I did a good job on the entire document, The professor disagreed with me on the final server choice. My choice was Windows, professor suggested Linux. I still stand by Windows as it is easier to setup. I would not make any changes.
+I did a good job on the entire document, The professor disagreed with me on the final server choice. My choice was Windows, professor suggested Linux. I still stand by Windows as it is easier to setup. I would not make any changes.
 
 ## How did you interpret the users needs and why is considering the user's needs so important?
 The user is the person who will be utilizing the application the most. If the user does not enjoy using the application, or finds it difficult and unappealing the will stop using it or find a competitor. The user needs to be able to easily play the game and have fun with as little load time as possible.
